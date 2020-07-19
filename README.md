@@ -13,8 +13,11 @@ See Miron B Kursa and Witold R. Rundnicki, "Feature Selection with the Boruta Pa
 
 # folder: sample1_adult
 data: http://archive.ics.uci.edu/ml/datasets/Adult
+
 aim : to determine whether a person makes over 50K(salary) a year.
+
 mthd: (1) Boruta + Random forest vs (2) Random forest alone
+
 rslt: no difference between (1) and (2). -> all attributes are meaningful.
 
 
