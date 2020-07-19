@@ -2,9 +2,9 @@
 This repository is related to Boruta package in R.
 
 Now, I'm developing 3 thinngs below;
-(1) Boruta + Random forest vs Random forest alone 
-(2) Boruta + Logistic regression vs Logistic regression alone
-(3) Boruta + Multiple regression vs Multiple regression alone
+(1) Boruta + Random forest vs Random forest alone  
+(2) Boruta + Logistic regression vs Logistic regression alone  
+(3) Boruta + Multiple regression vs Multiple regression alone  
 
 # Boruta packages
 Boruta is a so powerful package to improve and simplify dataset, as it's a novel feature selection algorithm. 
