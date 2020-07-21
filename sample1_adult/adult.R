@@ -156,4 +156,3 @@ res[[2]] = run_boruta_rf( data, object_col=15, boruta_need = TRUE )
 # save res
 #===================================
 save( res, file = "adult_res.rds")
-#load( "res.Rdata" )
