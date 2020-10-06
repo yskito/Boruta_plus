@@ -11,8 +11,7 @@ Now, I'm developing 3 things below;
 
 ### Boruta packages
 Boruta is a so powerful package to improve and simplify dataset, as it's a novel feature selection algorithm.   
-See: Miron B Kursa and Witold R. Rundnicki, [Feature Selection with the Boruta Package](https://www.jstatsoft.org/article/view/v036i11), Journal of Statistical Software, 2010.   
-
+See: [Miron B Kursa and Witold R. Rundnicki, Feature Selection with the Boruta Package, Journal of Statistical Software, 2010.](https://www.jstatsoft.org/article/view/v036i11)  
 
 ---
 
